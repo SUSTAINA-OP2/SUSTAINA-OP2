@@ -9,9 +9,9 @@ FILE_DESCRIPTION(
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ 'HeadCover.stp',
-/* time_stamp */ '2024-06-15T11:40:48+09:00',
-/* author */ ('masato'),
+/* name */ 'HeadCover_No201.stp',
+/* time_stamp */ '2024-06-15T22:07:53+09:00',
+/* author */ ('MasatoKubotera'),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v20',
 /* originating_system */ 'Autodesk Inventor 2024',
