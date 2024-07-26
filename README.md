@@ -46,8 +46,16 @@ This product by Masato Kubotera is licensed under a [CC BY-NC-SA 4.0 DEED](http:
 
 > [!IMPORTANT]
 > - **Handling of work products** — All work products related to SUSTAINA-OP&trade; series should be released as open source, even if they are utilized in a narrow community where closed development may be a priority.
-> - **Request for prior inquiry** —  The developer of SUSTAINA-OP&trade; series is currently employed at the Chiba Institute of Technology. If you are a student at or related to the University and wish to use the SUSTAINA-OP&trade; series deliverables, please contact us in advance.  
-
+> - **Request for prior inquiry** —  The developer of SUSTAINA-OP&trade; series is currently employed at the Chiba Institute of Technology. If you are a student at or related to the University and wish to use the SUSTAINA-OP&trade; series deliverables, please contact us in advance.
+> - **Influence Acknowledgment** — Even if you do not directly use SUSTAINA-OP&trade; series works, if your design is influenced by them, please indicate this.
+> - **Software Development Acknowledgment** — Any software developed using the SUSTAINA-OP&trade; series, including within the software code, must indicate that it was developed using the SUSTAINA-OP&trade; series.
+  > ```
+  > /*
+  > * This software was developed using the SUSTAINA-OP™ series.
+  > * https://github.com/SUSTAINA-OP  
+  > * SUSTAINA-OP2™ © Masato Kubotera (2024) CC BY-NC-SA 4.0 DEED
+  > */
+  > ```
 ## Acknowledgements
 SUSTAINA-OP&trade; has evolved through its challenges in the RoboCup Humanoid League. 
 Drawing inspiration from various open-source hardware, we've designed and developed this robot. 
