@@ -5,15 +5,20 @@
     Open Hardware Platform Humanoid Robot
   </P>
   <p align="center">
-    <image src="https://github.com/SUSTAINA-OP/SUSTAINA-OP/assets/53966390/d4281e44-ae00-4842-8a76-7101460c85e7" width="640px" align="center"><br>
+    <img src="" width="640px" align="center"><br>
   </P>
       
 ## What is SUSTAINA-OP&trade; Series?
 SUSTAINA-OP&trade; series is an open hardware platform designed to reduce the high costs associated with developing robot hardware. 
-It was adopted as the official robot of the "CIT Brains" team from Chiba Institute of Technology in Japan&#x1f38c;, leading them to win the world championship&#x1f3c6; in the RoboCup Humanoid League KidSize in 2022. 
-Recently, many robots inspired by the SUSTAINA-OP&trade; series have emerged on the scene.
+It was adopted as the official robot of the "CIT Brains" team from Chiba Institute of Technology in Japan&#x1f38c;, leading them to win the world championship&#x1f3c6; in the RoboCup Humanoid League KidSize twice in 2022 and 2024. 
+Recently, many robots inspired by the SUSTAINA-OP&trade; series have emerged on the scene. Example: [SIBER](https://ichiro.its.ac.id/robots/) (ICHIRO ITS: Sepuluh Nopember Institute of Technology, Indonesia)
 
 SUSTAINA-OP&trade; Repository: https://github.com/SUSTAINA-OP/SUSTAINA-OP
+
+<p align="center">
+  <img src="https://live.staticflickr.com/65535/53873219293_4de6a730bf_3k.jpg" alt="RoboCup 2024 - Soccer HL final kid size" width="320px" align="center"> <img src="https://live.staticflickr.com/65535/53873322454_ddae732803_3k.jpg" alt="RoboCup 2024 - Soccer HL final kid size" width="320px" align="center"><br>
+  RoboCup2024 Eindhoven Soccer Humanoid League KidSize Final vs. KURA(UAE) <a href="https://www.twitch.tv/videos/2209867454">video</a>
+</P>
 
 ## Features of SUSTAINA-OP2&trade;
 SUSTAINA-OP2&trade; has increased in size and gained more degrees of freedom compared to the  first SUSTAINA-OP&trade; developed in 2022. And, as an open hardware platform, it has experienced substantial growth.
@@ -40,9 +45,7 @@ This product by Masato Kubotera is licensed under a [CC BY-NC-SA 4.0 DEED](http:
 > >
 > - **Reference & Citation**  
 >   To reference and/or cite the work contained in this repository, please use the following publications:
->   - Kubotera, M. and Hayashibara, Y.: SUSTAINA-OP&trade;: Kid-sized Open Hardware Platform Humanoid Robot with Emphasis on Sustainability. RoboCup 2023: Robot World Cup XXVI, pp.166–178 (2024) [Springer](https://link.springer.com/chapter/10.1007/978-3-031-55015-7_14)
->
->     **The paper is about SUSTAINA-OP&trade;. Publications on SUSTAINA-OP2&trade; will be published soon.**
+>   - Kubotera, M. and Hayashibara, Y.: SUSTAINA-OP2&trade;: Self-buildable and Outsourceable Kid-sized Humanoid Robot Platform for Research and Competition. RSJ2024, 2H2-05 (2024)
 
 > [!IMPORTANT]
 > - **Handling of work products** — All work products related to SUSTAINA-OP&trade; series should be released as open source, even if they are utilized in a narrow community where closed development may be a priority.
