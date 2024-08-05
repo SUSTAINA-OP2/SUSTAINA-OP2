@@ -5,9 +5,18 @@
     Open Hardware Platform Humanoid Robot
   </P>
   <p align="center">
-    <img src="" width="640px" align="center"><br>
+    <table align="center">
+      <tr>
+          <td align="center">Real Robot</td>
+          <td align="center">3D Model</td>
+      </tr>
+      <tr>
+          <td align="center"><img src="https://github.com/user-attachments/assets/1f49b6c4-efe9-4097-9e48-e16b0457242d" width="160px"></td>
+          <td align="center"><img src="https://github.com/user-attachments/assets/581ba5d3-87b5-47d8-a42e-c5774b1264f1" width="160px"></td>
+      </tr>
+    </table>
   </P>
-      
+
 ## What is SUSTAINA-OP&trade; Series?
 SUSTAINA-OP&trade; series is an open hardware platform designed to reduce the high costs associated with developing robot hardware. 
 It was adopted as the official robot of the "CIT Brains" team from Chiba Institute of Technology in Japan&#x1f38c;, leading them to win the world championship&#x1f3c6; in the RoboCup Humanoid League KidSize twice in 2022 and 2024. 
