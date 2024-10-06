@@ -64,7 +64,7 @@ This product by Masato Kubotera is licensed under a [CC BY-NC-SA 4.0 DEED](http:
   > ```
   > /*
   > * This software was developed using the SUSTAINA-OP™ series.
-  > * https://github.com/SUSTAINA-OP  
+  > * https://github.com/SUSTAINA-OP2
   > * SUSTAINA-OP2™ © Masato Kubotera (2024) CC BY-NC-SA 4.0 DEED
   > */
   > ```
